@@ -16,7 +16,7 @@ Solving 31 questions (easy → hard) on an IMDb-style movies database.
 
 ## Files
 - `Movie_Dataset.sql` – table setup + all 31 queries
-- `data/` – the 6 CSV files
+- `DATA/` – the 6 CSV files
 - `LIST_OF_QUESTIONS.pdf` – the questions
 
 ## How to Run
